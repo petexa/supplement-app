@@ -1,1 +1,0 @@
-const GOOGLE_CLIENT_ID = "891273235284-d493l0il75sccnshao2hnfbact33djk3.apps.googleusercontent.com";
