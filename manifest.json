@@ -1,9 +1,0 @@
-{
-  "name": "Supplement Plan",
-  "short_name": "SuppPlan",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#f0f4f8",
-  "theme_color": "#3498db",
-  "icons": []
-}
